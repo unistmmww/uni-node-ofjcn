@@ -1,0 +1,24 @@
+{
+    "name": "@unistmm/uni-node-ofjcn",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/unistmm/uni-node-ofjcn.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "unistmm",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/unistmm/uni-node-ofjcn/issues"
+    },
+    "homepage": "https://github.com/unistmm/uni-node-ofjcn#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@unistmm/uni-node-ofjcn": "^1.0.0"
+    }
+}
